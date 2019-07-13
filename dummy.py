@@ -1,1 +1,1 @@
-print 'dummy.py'
+print 'remotely edited'
